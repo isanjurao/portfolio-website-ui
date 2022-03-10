@@ -6,8 +6,8 @@ const Home = () => {
   return <>
     <div className="mt-8 h-screen ">
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>isanjurao.com</title>
+        <link rel="icon" href="/logo.png" />
       </Head>
       
         <div className="flex">
